@@ -1,4 +1,4 @@
-# Text Adventure Game
+# Forest Adventure Text Based Game
 
 This is a simple text-based adventure game where the player explores a virtual forest. The forest is represented by a 2D array of characters, where:
 
