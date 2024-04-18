@@ -44,3 +44,8 @@ Here's an example of how to run the game:
 ```bash
 javac TextAdventureGame.java
 java TextAdventureGame
+
+```
+## Screen Shot:
+![image](https://github.com/codewithkrishan2/forest-adventure-game/assets/139488554/09e60ea7-9db7-44b4-85e1-8bbf52afa6e8)
+
